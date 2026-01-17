@@ -38,13 +38,7 @@ bank/
 │   └── repository/
 ├── database/
 │   └── migrations/
-└── frontend/
-    ├── index.html
-    ├── style.css
-    └── app.js
 ```
-
-<!-- сейчас схема написана для минимального фронта -->
 
 ---
 
@@ -53,8 +47,8 @@ bank/
 > [!WARNING]
 > Этот раздел ещё не был согласован с остальной коммандой!
 
-|                     | docker | backend | frontend | markdown |
-|:--------------------|:------:|:-------:|:--------:|:--------:|
-| **nrf24l01**        |   ✅   |   ✅    |    ❔    |    ❌    |
-| **shrechochek**     |   ❌   |   ✅    |    ❔    |    ✅    |
-| **David0Rakhmonov** |   ❔   |   ❔    |    ❔    |    ❔    |
+|                     | docker | backend | markdown |
+|:--------------------|:------:|:-------:|:--------:|
+| **nrf24l01**        |   ✅   |   ✅    |    ❌    |
+| **shrechochek**     |   ❌   |   ✅    |    ✅    |
+| **David0Rakhmonov** |   ❔   |   ❔    |    ❔    |
